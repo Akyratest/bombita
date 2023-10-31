@@ -21,7 +21,7 @@ body {
   canvas {
     border: 4px solid #22201f;
     border-radius: 8px;
-    background-image: url(img/fondo.jpg);
+    background-image: url(img/noche.gif);
   }
   
   .btns {
