@@ -1,15 +1,13 @@
 body {
-    background-image: url(./images/halloween.gif);
-    color: #fff;  
+    background-image: url(img/noche.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: #d21a1a;  
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin: 0;
     padding: 0;
   }
-  .gif {
-    width: 780px;
-    height: 1080;
-  }  
-  
   
   .game-container {
     display: flex;
