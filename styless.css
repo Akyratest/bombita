@@ -1,10 +1,15 @@
 body {
-    background-color: indigo;
+    background-image: url(./images/halloween.gif);
     color: #fff;  
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin: 0;
     padding: 0;
   }
+  .gif {
+    width: 780px;
+    height: 1080;
+  }  
+  
   
   .game-container {
     display: flex;
